@@ -1,2 +1,2 @@
 # nomanssky.zip
-backen for the NoMansSky.Zip webpate
+backend for the NoMansSky.Zip webpage
